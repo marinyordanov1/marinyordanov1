@@ -1,10 +1,10 @@
 ## Hi there! I'm Marin 👋  
 
 ![visitors](https://komarev.com/ghpvc/?username=marinyordanov1)
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100002057343468)
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/marinyordanov99/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/marinyordanov/) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marinyordanov/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/marinyordanov1)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marinyordanov/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/marinyordanov1)
 
 ```javascript
 const marin: Developer = {
